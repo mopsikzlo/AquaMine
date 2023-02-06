@@ -1,0 +1,20 @@
+# Advanced configuration file for AquaMine
+
+inventory:
+  allow-cheats: false
+    
+port-range:
+  enabled: false
+  start: 19132
+  end: 19164
+
+network:
+  packet-limit: 300
+  port-checking: true
+
+server:
+  disable-logging: false
+  readonly-properties: false
+
+level-settings:
+  force-void: false
